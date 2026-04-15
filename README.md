@@ -52,6 +52,7 @@ Our approach significantly improves segmentation performance across multiple vas
   M_GT
   ```
 
+
 #### ▶️ Run
 
 You can train the model using the following command:
@@ -73,7 +74,6 @@ python3 train.py \
   --data_path "path/to/firefly" \
   --dataset "firefly" \
   --sam_ckpt "sam_weights/sam_vit_l.pth"
-```
 ```
 
 ---
