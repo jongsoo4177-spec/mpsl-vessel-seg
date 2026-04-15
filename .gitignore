@@ -1,0 +1,8 @@
+/checkpoint
+/logs
+/runs
+/sam_weights
+
+# python cache
+__pycache__/
+*.pyc
